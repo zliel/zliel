@@ -9,7 +9,7 @@
 <br>
 
 ## What I'm Listening to Right Now 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=busterfreeze&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=busterfreeze&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
