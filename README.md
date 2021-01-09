@@ -3,7 +3,7 @@
 🔭 I’m currently working on a progress tracker to keep track of my reading!<br>
 🌱 I’m currently learning Java and SQL.<br>
 ❓  I’m looking for help with JavaFX. <br>
-🎵 Fun fact: I'm a music teacher and performer, looking to switch to Software Engineering!
+🎵 Fun fact: I'm a violin/piano teacher and performer, and I really dig Djent!
 
 <br>
 <br>
