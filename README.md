@@ -1,9 +1,9 @@
 # Hey, how's it going?
 
 🔭 I’m currently working on a progress tracker to keep track of my reading!<br>
-🌱 I’m currently learning Java and SQL.<br>
-❓  I’m looking for help with JavaFX. <br>
-🎵 Fun fact: I'm a violin/piano teacher and performer, and I really dig Djent!
+🌱 I’m currently learning JavaFX.<br>
+❓  I’m looking for help with Spring. <br>
+🎵 Fun fact: I'm a violin/piano teacher, and I really dig Djent!
 
 <br>
 <br>
