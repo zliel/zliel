@@ -1,8 +1,8 @@
 # Hey, how's it going?
 
-🔭 I’m currently working on a University Course Management System!<br>
+🔭 I’m currently working on a Japanese Language Learning Web App!<br>
 🌱 I’m currently learning Spring Boot.<br>
-❓  I’m looking for help with Hibernate.<br>
+❓  I’m looking for help with FastAPI.<br>
 🎵 Fun fact: I'm a violin/piano teacher, and I really dig Djent!
 
 <br>
