@@ -1,16 +1,11 @@
 # Hey, how's it going?
 
-🔭 I’m currently working on a Japanese Language Learning Web App!<br>
-🌱 I’m currently learning Spring Boot.<br>
-❓  I’m looking for help with FastAPI.<br>
+🔭 I’m currently working on a Flashcard Application using Qt and the SM-2 algorithm!<br>
+🌱 I’m currently learning FastAPI.<br>
+❓  I’m looking for help with Spring Boot Webflux.<br>
 🎵 Fun fact: I'm a violin/piano teacher, and I really dig Djent!
 
 <br>
-<br>
-
-## What I'm Listening to Right Now 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=busterfreeze&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 <br>
 
 ## My Github Stats 📚
